@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/about_menu_item"
+        android:title="О программе"
+        android:icon="@drawable/ic_info"
+         />
+    <item
+        android:id="@+id/theme_menu_item"
+        android:title="Сменить на тёмную"
+        android:icon="@drawable/ic_light_mode"
+         />
+
+</menu>
